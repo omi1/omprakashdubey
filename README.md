@@ -21,10 +21,12 @@ Check out my projects details here.
 * Advanced Analytics & Reporting – Analyzing collected data to detect patterns, predict failures, optimize operations and recommend improvements.
 * Remote Accessibility – Enabling clients to monitor their equipment remotely from any location globally via web browsers or dedicated mobile apps, providing flexibility and convenience.
 
-Android: here
-iOs: Link Here
-
 (2) Pharmacy App
+* Easy Medicine Ordering: Quickly browse and order medications from an extensive range of products.
+* Home Delivery: Get medicines delivered right to your doorstep with real-time tracking.
+* Prescription Upload: Simply upload your prescription for hassle-free ordering of prescribed medicines.
+
+
 
 𝘔𝘢𝘯𝘺 𝘮𝘰𝘳𝘦 𝘈𝘸𝘦𝘴𝘰𝘮𝘦 projects..
 
