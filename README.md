@@ -25,9 +25,9 @@ Check out my projects details here.
 
 (2) App For Remote Monitoring Of Industrial Devices  
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:🎉
-* Real Time Data Collection – Providing accurate measurements of parameters like temperature and humidity at client sites.
-* Advanced Analytics & Reporting – Analyzing collected data to detect patterns, predict failures, optimize operations and recommend improvements.
-* Remote Accessibility – Enabling clients to monitor their equipment remotely from any location globally via web browsers or dedicated mobile apps, providing flexibility and convenience.
+* **Real Time Data Collection** – Providing accurate measurements of parameters like temperature and humidity at client sites.
+* **Advanced Analytics & Reporting** – Analyzing collected data to detect patterns, predict failures, optimize operations and recommend improvements.
+* **Remote Accessibility** – Enabling clients to monitor their equipment remotely from any location globally via web browsers or dedicated mobile apps, providing flexibility and convenience.
 * 
 * (3) UPI-Based Payment App  
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨: 🎉  
@@ -39,9 +39,9 @@ Check out my projects details here.
 
 
 (3) Pharmacy App
-* Easy Medicine Ordering: Quickly browse and order medications from an extensive range of products.
-* Home Delivery: Get medicines delivered right to your doorstep with real-time tracking.
-* Prescription Upload: Simply upload your prescription for hassle-free ordering of prescribed medicines.
+* **Easy Medicine Ordering**: Quickly browse and order medications from an extensive range of products.
+* **Home Delivery**: Get medicines delivered right to your doorstep with real-time tracking.
+* **Prescription Upload**: Simply upload your prescription for hassle-free ordering of prescribed medicines.
 
 
 
