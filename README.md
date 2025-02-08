@@ -15,13 +15,30 @@ Proficient in developing rich UI, high volume, and low latency Web solutions usi
 Check out my projects details here.
 
 
-(1) App For Remote Monitoring Of Industrial Devices  
+(1) Bluetooth-Enabled Lighting Mobile App Solution  
+𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨: 🎉  
+* **Provisioning & Configuration** – Seamless setup and configuration of lighting devices using Bluetooth Mesh technology, ensuring a smooth onboarding experience.  
+* **Energy-Saving Profiles** – Setting up customized lighting profiles for holiday events and scheduled dimming to optimize energy consumption efficiently.  
+* **Mesh Protocol & Topology** – Utilizing Bluetooth Mesh networking to enable robust, scalable, and reliable communication between multiple lighting devices.  
+* **Daylight Harvesting Control** – Implementing intelligent control profiles to automatically adjust lighting levels based on ambient daylight, enhancing energy efficiency.  
+
+
+(2) App For Remote Monitoring Of Industrial Devices  
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:🎉
 * Real Time Data Collection – Providing accurate measurements of parameters like temperature and humidity at client sites.
 * Advanced Analytics & Reporting – Analyzing collected data to detect patterns, predict failures, optimize operations and recommend improvements.
 * Remote Accessibility – Enabling clients to monitor their equipment remotely from any location globally via web browsers or dedicated mobile apps, providing flexibility and convenience.
+* 
+* (3) UPI-Based Payment App  
+𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨: 🎉  
+* **Seamless Transactions** – Enabling instant and secure money transfers using UPI with hassle-free user authentication.  
+* **Bill Payments & Recharge** – Supporting utility bill payments, mobile recharges, and other recurring transactions with ease.  
+* **QR Code & Contact-Based Payments** – Facilitating quick payments via QR scanning and contact-based transactions for a smooth user experience.  
+* **Multi-Bank Integration** – Allowing users to link multiple bank accounts for unified management and seamless fund transfers.  
+* **Enhanced Security** – Implementing multi-layer security measures, including UPI PIN authentication, fraud detection, and encryption for safe transactions.  
 
-(2) Pharmacy App
+
+(3) Pharmacy App
 * Easy Medicine Ordering: Quickly browse and order medications from an extensive range of products.
 * Home Delivery: Get medicines delivered right to your doorstep with real-time tracking.
 * Prescription Upload: Simply upload your prescription for hassle-free ordering of prescribed medicines.
