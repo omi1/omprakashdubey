@@ -29,7 +29,8 @@ Check out my projects details here.
 * **Advanced Analytics & Reporting** – Analyzing collected data to detect patterns, predict failures, optimize operations and recommend improvements.
 * **Remote Accessibility** – Enabling clients to monitor their equipment remotely from any location globally via web browsers or dedicated mobile apps, providing flexibility and convenience.
 * 
-* (3) UPI-Based Payment App  
+
+(3) UPI-Based Payment App  
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨: 🎉  
 * **Seamless Transactions** – Enabling instant and secure money transfers using UPI with hassle-free user authentication.  
 * **Bill Payments & Recharge** – Supporting utility bill payments, mobile recharges, and other recurring transactions with ease.  
@@ -38,7 +39,7 @@ Check out my projects details here.
 * **Enhanced Security** – Implementing multi-layer security measures, including UPI PIN authentication, fraud detection, and encryption for safe transactions.  
 
 
-(3) Pharmacy App
+(4) Pharmacy App
 * **Easy Medicine Ordering**: Quickly browse and order medications from an extensive range of products.
 * **Home Delivery**: Get medicines delivered right to your doorstep with real-time tracking.
 * **Prescription Upload**: Simply upload your prescription for hassle-free ordering of prescribed medicines.
